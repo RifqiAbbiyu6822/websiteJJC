@@ -3,7 +3,7 @@
 return [
   [
     'id' => 1,
-    'name' => 'TolJakarta-Cikampek II',
+    'name' => 'Tol Jakarta-Cikampek II',
     'location' => 'Jawa Barat',
     'description' => 'Proyek tol elevated yang menghubungkan Jakarta dan Cikampek untuk mengurangi kemacetan.',
     'image' => 'assets/img/slider-2.jpg',
